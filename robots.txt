@@ -25,7 +25,7 @@ Disallow: /more-from-seller/
 Disallow: /mobile/
 Disallow: /resp/
 Disallow: /similar/
-Disallow: /room/
+Disallow: */room/
 Disallow: /*gp=*
 Disallow: /*uw=*
 Disallow: /*al=*
