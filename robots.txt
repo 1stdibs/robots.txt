@@ -74,6 +74,7 @@ Disallow: /*stone-cut=*
 Disallow: /*latest=*
 Disallow: /*forceLocale=*
 Disallow: /*st=*
+Disallow: /*matching-sets=*
 
 User-agent: AdsBot-Google
 Disallow:
