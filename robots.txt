@@ -25,7 +25,6 @@ Disallow: /more-from-seller/
 Disallow: /mobile/
 Disallow: /resp/
 Disallow: /similar/
-Disallow: */room/
 Disallow: /*gp=*
 Disallow: /*uw=*
 Disallow: /*al=*
@@ -75,6 +74,7 @@ Disallow: /*latest=*
 Disallow: /*forceLocale=*
 Disallow: /*st=*
 Disallow: /*matching-sets=*
+Noindex: */room/*
 
 User-agent: AdsBot-Google
 Disallow:
