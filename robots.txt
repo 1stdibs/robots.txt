@@ -72,7 +72,6 @@ Disallow: /*carat-weight=*
 Disallow: /*stone-cut=*
 Disallow: /*latest=*
 Disallow: /*forceLocale=*
-Disallow: /*st=*
 Disallow: /*matching-sets=*
 Noindex: */room/*
 
