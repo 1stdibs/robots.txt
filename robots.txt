@@ -75,6 +75,7 @@ Disallow: /*forceLocale=*
 Disallow: /*st=*
 Disallow: /*matching-sets=*
 Disallow: /*topSeller=*
+Disallow: /*recognized=*
 Noindex: */room/*
 
 User-agent: AdsBot-Google
