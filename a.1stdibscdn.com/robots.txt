@@ -2,3 +2,4 @@ User-agent: *
 Disallow: *swatch=disallow*
 Disallow: *auto=webp*
 Disallow: *srcset=disallow*
+Disallow: *auto=webp*
