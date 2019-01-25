@@ -76,6 +76,7 @@ Disallow: /*st=*
 Disallow: /*matching-sets=*
 Disallow: /*topSeller=*
 Disallow: /*recognized=*
+Disallow: /*gallery=*
 Disallow: /cpc/
 Noindex: */room/*
 
