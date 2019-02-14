@@ -77,7 +77,7 @@ Disallow: /*matching-sets=*
 Disallow: /*topSeller=*
 Disallow: /*recognized=*
 Disallow: /*gallery=*
-Disallow: /*shipping-complimentary=*
+Disallow: /*shipping-free=*
 Disallow: /cpc/
 Noindex: */room/*
 
