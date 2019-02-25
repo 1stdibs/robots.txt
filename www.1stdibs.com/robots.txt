@@ -79,6 +79,7 @@ Disallow: /*recognized=*
 Disallow: /*gallery=*
 Disallow: /*shipping-free=*
 Disallow: /cpc/
+Disallow: /*sale=*
 Noindex: */room/*
 
 User-agent: AdsBot-Google
