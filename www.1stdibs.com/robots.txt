@@ -78,6 +78,8 @@ Disallow: /*topSeller=*
 Disallow: /*recognized=*
 Disallow: /*gallery=*
 Disallow: /*shipping-free=*
+Disallow: /*max-white-glove-price=*
+Disallow: /*white-glove-shipping=*
 Disallow: /cpc/
 Disallow: /*sale=*
 Noindex: */room/*
