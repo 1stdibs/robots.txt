@@ -90,5 +90,5 @@ Disallow:
 User-agent: AdIdxBot
 Disallow:
 
-User-agent: Pinterestbot
+User-agent: Pinterest
 Crawl-delay: 5
