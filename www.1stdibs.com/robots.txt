@@ -82,6 +82,7 @@ Disallow: /*max-white-glove-price=*
 Disallow: /*white-glove-shipping=*
 Disallow: /cpc/
 Disallow: /*sale=*
+Disallow: /view/
 Noindex: */room/*
 
 User-agent: AdsBot-Google
