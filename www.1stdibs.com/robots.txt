@@ -83,6 +83,7 @@ Disallow: /*white-glove-shipping=*
 Disallow: /cpc/
 Disallow: /*sale=*
 Disallow: /view/
+Disallow: /info/forms2/
 
 User-agent: AdsBot-Google
 Disallow:
