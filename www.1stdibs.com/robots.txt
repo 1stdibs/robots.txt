@@ -93,3 +93,23 @@ Disallow:
 
 User-agent: Pinterest
 Crawl-delay: 5
+
+# Art test GROWTH-4827
+Allow:/art/?*
+Allow:/art/*?*
+Allow: /art/*sort*
+Allow: /art/*height*
+Allow: /art/*measurement-unit*
+Allow: /art/*price*
+Allow: /art/*width*
+Allow: /art/*gallery*
+Allow: /art/*latest*
+Allow: /art/*h*
+Allow: /art/*style*
+Allow: /art/*creator*
+Allow: /art/*per*
+Allow: /art/*loc*
+Allow: /art/*color*
+Allow: /art/*material*
+Allow: /art/*topseller*
+Allow: /art/*production-time-frame*
