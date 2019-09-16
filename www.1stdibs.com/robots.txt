@@ -85,18 +85,9 @@ Disallow: /*sale=*
 Disallow: /view/
 Disallow: /info/forms2/
 
-User-agent: AdsBot-Google
-Disallow:
-
-User-agent: AdIdxBot
-Disallow:
-
-User-agent: Pinterest
-Crawl-delay: 5
-
 # Art test GROWTH-4827
-Allow:/art/?*
-Allow:/art/*?*
+Allow: /art/?*
+Allow: /art/*?*
 Allow: /art/*sort*
 Allow: /art/*height*
 Allow: /art/*measurement-unit*
@@ -113,3 +104,13 @@ Allow: /art/*color*
 Allow: /art/*material*
 Allow: /art/*topseller*
 Allow: /art/*production-time-frame*
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: AdIdxBot
+Disallow:
+
+User-agent: Pinterest
+Crawl-delay: 5
+
