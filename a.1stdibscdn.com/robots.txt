@@ -1,1 +1,3 @@
 User-agent: *
+Disallow: *swatch=disallow*
+Disallow: *auto=webp*
