@@ -85,6 +85,7 @@ Disallow: /cpc/
 Disallow: /*sale=*
 Disallow: /view/
 Disallow: /info/forms2/
+Disallow: /private-sale/
 
 # Art test GROWTH-4827
 Allow: /art/?*
