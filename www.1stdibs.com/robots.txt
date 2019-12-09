@@ -36,7 +36,6 @@ Disallow: /*modal=*
 Disallow: /*measurements=*
 Disallow: /*view=*
 Disallow: /*origin=*
-Disallow: /*section=*
 Disallow: /*rt=*
 Disallow: /*ft=*
 Disallow: /*ut=*
