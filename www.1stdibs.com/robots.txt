@@ -55,47 +55,6 @@ Disallow: /*sale=*
 Disallow: /view/
 Disallow: /info/forms2/
 
-# Art test GROWTH-4827
-Allow: /art/?*
-Allow: /art/*?*
-Allow: /art/*sort*
-Allow: /art/*height*
-Allow: /art/*measurement-unit*
-Allow: /art/*price*
-Allow: /art/*width*
-Allow: /art/*gallery*
-Allow: /art/*latest*
-Allow: /art/*h*
-Allow: /art/*style*
-Allow: /art/*creator*
-Allow: /art/*per*
-Allow: /art/*loc*
-Allow: /art/*color*
-Allow: /art/*material*
-Allow: /art/*topseller*
-Allow: /art/*production-time-frame*
-
-# Art test GROWTH-4968
-Allow: /jewelry/?*
-Allow: /jewelry/*?*
-Allow: /jewelry/*h*
-Allow: /jewelry/*sort*
-Allow: /jewelry/*price*
-Allow: /jewelry/*creator*
-Allow: /jewelry/*per*
-Allow: /jewelry/*loc*
-Allow: /jewelry/*metal*
-Allow: /jewelry/*stone*
-Allow: /jewelry/*stone-cut*
-Allow: /jewelry/*carat-weight*
-Allow: /jewelry/*style*
-Allow: /jewelry/*gallery*
-Allow: /jewelry/*latest*
-Allow: /jewelry/*sold*
-Allow: /jewelry/*returnable*
-Allow: /jewelry/*recognized*
-Allow: /jewelry/*topseller*
-
 User-agent: AdsBot-Google
 Disallow:
 
