@@ -43,11 +43,8 @@ Disallow: /*pageSize=*
 Disallow: /*q=*
 Disallow: /*room=*
 Disallow: /*project=*
-Disallow: /*item-type=*
 Disallow: /*dealer=*
-Disallow: /*customizable=*
 Disallow: /*forceLocale=*
-Disallow: /*st=*
 Disallow: /*topSeller=*
 Disallow: /cpc/
 Disallow: /*sale=*
