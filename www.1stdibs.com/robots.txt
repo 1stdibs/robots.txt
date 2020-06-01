@@ -52,6 +52,7 @@ Disallow: /view/
 Disallow: /info/forms2/
 Disallow: /private-sale/
 Disallow: /buy/*/*page=*
+Disallow: /buyer-base/
 
 User-agent: AdsBot-Google
 Disallow:
