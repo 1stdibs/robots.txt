@@ -1,4 +1,5 @@
 User-agent: *
+Allow: /soa/graphql/
 Disallow: /search/
 Disallow: /soa/
 Disallow: /administration/
@@ -62,4 +63,3 @@ Disallow:
 
 User-agent: Pinterest
 Crawl-delay: 5
-
