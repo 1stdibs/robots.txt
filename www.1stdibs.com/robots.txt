@@ -55,6 +55,7 @@ Disallow: /private-sale/
 Disallow: /buy/*/*page=*
 Disallow: /buyer-base/
 Disallow: /*topic=*
+Disallow: /*frame=*
 
 User-agent: AdsBot-Google
 Disallow:
