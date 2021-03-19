@@ -1,5 +1,8 @@
 User-agent: *
 Allow: /soa/graphql/
+Allow: /soa/graphql$
+Allow: /soa/graphql?*
+Allow: /soa/graphql/?*
 Disallow: /search/
 Disallow: /soa/
 Disallow: /administration/
