@@ -29,6 +29,9 @@ Disallow: /recognized-dealers/fashion/
 Disallow: /more-from-seller/
 Disallow: /mobile/
 Disallow: /resp/
+Disallow: /fr/similar/
+Disallow: /en-gb/similar/
+Disallow: /de/similar/
 Disallow: /similar/
 Disallow: /*gp=*
 Disallow: /*uw=*
