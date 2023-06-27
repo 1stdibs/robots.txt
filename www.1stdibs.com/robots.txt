@@ -147,6 +147,36 @@ Disallow: /buyer-base/
 Disallow: /*topic=*
 Disallow: /*frame=*
 
+Disallow: /it/administration/
+Disallow: /it/buy/*/*page=*
+Disallow: /it/buyer-base/
+Disallow: /it/cgi-bin/
+Disallow: /it/checkout/
+Disallow: /it/citysearch-account/
+Disallow: /it/citysearch-administration/
+Disallow: /it/citysearch/
+Disallow: /it/cpc/
+Disallow: /it/favorites/
+Disallow: /it/info/forms2/
+Disallow: /it/item/
+Disallow: /it/mobile/
+Disallow: /it/more-from-seller/
+Disallow: /it/my/
+Disallow: /it/notfound.html
+Disallow: /it/print/
+Disallow: /it/private-sale/
+Disallow: /it/recognized-dealers/art/
+Disallow: /it/recognized-dealers/fashion/
+Disallow: /it/recognized-dealers/furniture/
+Disallow: /it/recognized-dealers/jewelry/
+Disallow: /it/resp/
+Disallow: /it/search/
+Disallow: /it/shared_libraries/
+Disallow: /it/similar/
+Disallow: /it/soa/
+Disallow: /it/view/
+Disallow: /it/vpv/
+
 User-agent: AdsBot-Google
 Disallow:
 
