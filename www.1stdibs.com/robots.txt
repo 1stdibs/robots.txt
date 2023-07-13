@@ -176,6 +176,7 @@ Disallow: /it/similar/
 Disallow: /it/soa/
 Disallow: /it/view/
 Disallow: /it/vpv/
+Disallow: /es/administration/
 
 User-agent: AdsBot-Google
 Disallow:
