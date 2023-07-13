@@ -178,7 +178,7 @@ Disallow: /it/view/
 Disallow: /it/vpv/
 
 Disallow: /es/administration/
-Disallow: /es/buy/*/page=
+Disallow: /es/buy/*/*page=*
 Disallow: /es/buyer-base/
 Disallow: /es/cgi-bin/
 Disallow: /es/checkout/
