@@ -11,7 +11,7 @@ You can see both of these files live on production:
 Use the links below to learn how to edit the `robots.txt` files directly in Github and create a pull request.
 
 * [Editing Files](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)
-  * If this is your first time editing a file, you may be asked to "fork" the repository. You'll have to perform that action first before you can go ahead.
+  * If this is your first time editing a file, you may be asked to "fork" the repository. If that's the case, you aren't in the 1stDibs Github organization. Please contact our helpdesk to add you to the 1stdibs Github organization and accept the invitation before trying to edit a file.
 * [Creating a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
   * Please add any relevant Jira ticket numbers to your commit message. 
 
