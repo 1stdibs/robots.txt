@@ -96,9 +96,13 @@ Disallow: /en-gb/resp/
 Disallow: /de/resp/
 Disallow: /resp/
 Disallow: /fr/similar/
+Disallow: /fr/similar-sold/
 Disallow: /en-gb/similar/
+Disallow: /en-gb/similar-sold/
 Disallow: /de/similar/
+Disallow: /de/similar-sold/
 Disallow: /similar/
+Disallow: /similar-sold/
 Disallow: /*gp=*
 Disallow: /*uw=*
 Disallow: /*al=*
@@ -173,6 +177,7 @@ Disallow: /it/resp/
 Disallow: /it/search/
 Disallow: /it/shared_libraries/
 Disallow: /it/similar/
+Disallow: /it/similar-sold/
 Disallow: /it/soa/
 Disallow: /it/view/
 Disallow: /it/vpv/
@@ -203,6 +208,7 @@ Disallow: /es/resp/
 Disallow: /es/search/
 Disallow: /es/shared_libraries/
 Disallow: /es/similar/
+Disallow: /es/similar-sold/
 Disallow: /es/soa/
 Disallow: /es/view/
 Disallow: /es/vpv/
