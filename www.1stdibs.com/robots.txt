@@ -214,11 +214,7 @@ Disallow: /es/view/
 Disallow: /es/vpv/
 
 User-agent: GoogleOther
-Disallow: /de/photos/
-Disallow: /fr/photos/
-Disallow: /it/photos/
-Disallow: /es/photos/
-Disallow: /photos/
+Disallow: /
 
 User-agent: AdsBot-Google
 Disallow:
