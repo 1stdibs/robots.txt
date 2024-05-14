@@ -230,6 +230,10 @@ Disallow:
 User-agent: AdIdxBot
 Disallow:
 
+# FI-2305
+User-agent: Storebot-Google
+Disallow:
+
 User-agent: Pinterestbot
 Crawl-delay: 1
 
