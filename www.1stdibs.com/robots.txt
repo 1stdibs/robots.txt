@@ -213,7 +213,7 @@ Disallow: /es/soa/
 Disallow: /es/view/
 Disallow: /es/vpv/
 
-User-agent: GoogleOther
+User-agent: Google-Extended
 Disallow: /
 
 User-agent: AdsBot-Google
