@@ -216,6 +216,14 @@ Disallow: /es/vpv/
 User-agent: Google-Extended
 Disallow: /
 
+# https://1stdibs.atlassian.net/browse/FI-2304
+User-agent: GoogleOther
+Disallow: /de/photos/
+Disallow: /fr/photos/
+Disallow: /it/photos/
+Disallow: /es/photos/
+Disallow: /photos/
+
 User-agent: AdsBot-Google
 Disallow:
 
