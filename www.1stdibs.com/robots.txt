@@ -118,6 +118,7 @@ Disallow: /*ft=*
 Disallow: /*ut=*
 Disallow: /*pageSize=*
 Disallow: /*q=*
+Disallow: *?s=*
 Disallow: /*room=*
 Disallow: /*project=*
 Disallow: /*dealer=*
