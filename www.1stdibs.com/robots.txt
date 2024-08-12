@@ -245,4 +245,4 @@ User-agent: bingbot
 Crawl-delay: 1
 
 User-agent: PetalBot
-Disallow: 
+Disallow: /
