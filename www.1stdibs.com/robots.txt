@@ -121,6 +121,8 @@ Disallow: /de/buyer-base/
 Disallow: /buyer-base/
 Disallow: /*topic=*
 Disallow: /*frame=*
+Disallow: /amp/
+Disallow: /*userComesFromAmp=*
 
 Disallow: /it/administration/
 Disallow: /it/buy/*/*page=*
